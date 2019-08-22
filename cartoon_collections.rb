@@ -8,7 +8,8 @@ end
 
 
 def summon_captain_planet(planeteer_calls)
-  
+  planeteer_calls.capitalize do |words|
+    puts "#{words}!"
 end
 
 def long_planeteer_calls# code an argument here
