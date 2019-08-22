@@ -5,9 +5,6 @@ def roll_call_dwarves(dwarves)
   end
 end
 
-sharks.each_with_index do |shark, index| 
-  puts "The index is #{index}"
-  puts "The value is #{shark}"
 
 
 def summon_captain_planet# code an argument here
